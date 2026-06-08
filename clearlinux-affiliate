@@ -1,0 +1,16 @@
+{
+  "proxy": {
+    "link": "https://proxy-seller.com/?partner=KCS1VSCV2B2WZJ",
+    "banner": {
+      "vi": { "title": "🚀 Mua Proxy", "description": "Proxy siêu sạch. Mã INZUXO_1174968 giảm 15%.", "buttonText": "Mua Ngay" },
+      "en": { "title": "🚀 Buy Proxy", "description": "Code INZUXO_1174968 for 15% off.", "buttonText": "Buy Now" }
+    }
+  },
+  "vps": {
+    "link": "https://www.vultr.com/?ref=6829483",
+    "banner": {
+      "vi": { "title": "💻 Thuê VPS Chạy Tool", "description": "Nhận ngay 300usd Credit để chạy tool.", "buttonText": "Nhận 300usd" },
+      "en": { "title": "💻 Powerful VPS", "description": "Get 300usd free credit.", "buttonText": "Get 300usd" }
+    }
+  }
+}
