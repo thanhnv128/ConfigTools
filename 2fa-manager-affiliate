@@ -2,15 +2,15 @@
   "proxy": {
     "link": "https://buymeacoffee.com/thanhnv128b",
     "banner": {
-      "vi": { "title": "🚀 Support development", "description": "Do you find this tool useful? Support the creator" },
-      "en": { "title": "🚀 Support development", "description": "Do you find this tool useful? Support the creator" }
+      "vi": { "title": "🚀 Support development", "description": "Do you find this tool useful? Support the creator", "buttonText": "Support My Project" },
+      "en": { "title": "🚀 Support development", "description": "Do you find this tool useful? Support the creator", "buttonText": "Support My Project" }
     }
   },
   "vps": {
     "link": "https://buymeacoffee.com/thanhnv128b",
     "banner": {
-      "vi": { "title": "💻 Buy me a coffee", "description": "Do you find this tool useful? Support the creator" },
-      "en": { "title": "💻 Buy me a coffee", "description": "Do you find this tool useful? Support the creator" }
+      "vi": { "title": "💻 Buy me a coffee", "description": "Do you find this tool useful? Support the creator", "buttonText": "Support My Project" },
+      "en": { "title": "💻 Buy me a coffee", "description": "Do you find this tool useful? Support the creator", "buttonText": "Support My Project" }
     }
   }
 }
