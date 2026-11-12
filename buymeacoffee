@@ -1,0 +1,15 @@
+{
+  "link": "https://buymeacoffee.com/thanhnv128b",
+    "banner": {
+      "vi": { 
+        "title": "🚀 Ủng hộ phát triển", 
+        "description": "Bạn thấy công cụ này hữu ích? Hãy ủng hộ tác giả nhé!", 
+        "buttonText": "Ủng hộ dự án" 
+      },
+      "en": { 
+        "title": "🚀 Support development", 
+        "description": "Do you find this tool useful? Support the creator", 
+        "buttonText": "Support My Project" 
+      }
+    }
+}
